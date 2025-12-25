@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "colleyRstats"]
 	path = colleyRstats
-	url = https://github.com/cran/colleyRstats
+	url = https://github.com/m-colley/colleyrstats
